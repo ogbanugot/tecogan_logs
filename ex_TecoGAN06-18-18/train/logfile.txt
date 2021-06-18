@@ -1,0 +1,21 @@
+input shape: [1, 144, 180, 3]
+output shape: [1, 576, 720, 3]
+Finish building the network
+Loading weights from ckpt model
+Frame evaluation starts!!
+Warming up 5
+Warming up 4
+Warming up 3
+Warming up 2
+Warming up 1
+saving image 000000000_0001
+saving image 000000000_0002
+saving image 000000000_0003
+saving image 000000000_0004
+saving image 000000000_0005
+saving image 000000000_0006
+saving image 000000000_0007
+saving image 000000000_0008
+saving image 000000000_0009
+saving image 000000000_0010
+total time 5.275778293609619, frame number 15
